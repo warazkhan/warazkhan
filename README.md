@@ -20,6 +20,7 @@
 </p>
 
 ### 📫 &nbsp; Reach Me @:
-<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
+<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/linkedIn.png" width="40" height="40"></a> &nbsp;
 <a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
+<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="Outlook" src="https://www.hackerrank.com/warazkhan?hr_r=1" width="40" height="40"></a> &nbsp;
 
