@@ -33,9 +33,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Github" width="40" height="40"/> </a>
 </p>
 
-![warazkhan's github stats](https://github-readme-stats.vercel.app/api?username=warazubairkhan&show_icons=true&hide_border=true)
-![warazkhan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=warazubairkhan&layout=compact&langs_count=8&hide_border=true)
-
 
 ### 📫 &nbsp; Reach Me @:
 <a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/linkedIn.png" width="40" height="40"></a> &nbsp;
