@@ -17,3 +17,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Github" width="40" height="40"/> </a>
 </p>
+
+### 📫 &nbsp; Connect with me Me @:
+<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
