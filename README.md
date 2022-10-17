@@ -19,7 +19,7 @@
 
 ### &nbsp; Framework:
 <p align="left">
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="flask" width="60" height="60"/> </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/flask.png" alt="flask" width="60" height="60"/> </a>
 </p>
 
 ### &nbsp; Tools:
