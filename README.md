@@ -20,6 +20,6 @@
 </p>
 
 ### 📫 &nbsp; Reach Me @:
-<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png?&style=flat&logo=linkedin&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
+<a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
 
