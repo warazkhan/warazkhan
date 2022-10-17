@@ -5,7 +5,7 @@
  
 ### &nbsp; About me:
 - 🔭 I’m currently looking for a job to start my career in Munich, Germany
-- 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b>in 2019 from Pakistan
+- 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b> in 2019 from Pakistan
 - 🌱 I’m currently working on projects and doing courses on <b>Machine Learning</b>
 - ⚡ I’m passionate about <b>Data Analysis, Machine Leaning, Data Science, Deep Learning </b>
 
