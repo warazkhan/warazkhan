@@ -22,6 +22,11 @@
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/flask.png" alt="flask" width="60" height="60"/> </a>
 </p>
 
+### &nbsp; Database:
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/mySql.png" alt="flask" width="60" height="60"/> </a>
+</p>
+
 ### &nbsp; Tools:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a> 
