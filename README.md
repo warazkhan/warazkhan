@@ -37,7 +37,7 @@
 ### 📫 &nbsp; Reach Me @:
 <a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/linkedIn.png" width="40" height="40"></a> &nbsp;
 <a href="https://www.xing.com/profile/WaraZubair_Khan/cv"><img alt="Xing" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/xing.png" width="40" height="40"></a> &nbsp;
-<a href="https://www.kaggle.com/warazubairkhan"><img alt="Kaggle" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/kaggle.png" width="40" height="40"></a> &nbsp;
+<a href="https://www.kaggle.com/warazubairkhan"><img alt="Kaggle" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/kaggle.png" width="60" height="40"></a> &nbsp;
 <a href="https://www.hackerrank.com/warazkhan?hr_r=1"><img alt="HackerRank" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/HackerRank.png" width="40" height="40"></a> &nbsp;
 <a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
 
