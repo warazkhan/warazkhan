@@ -4,10 +4,10 @@
  </h1>
  
 ### &nbsp; About me:
-- 🔭 I’m currently looking for a job to start my career in Munich, Germany
+- 🔭 I’m currently doing Masters from University of Hull, England.
 - 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b> in 2019 from Pakistan
-- 🌱 I’m currently working on projects and doing courses on <b>Machine Learning</b>
-- ⚡ I’m passionate about <b>Data Analysis, Machine Leaning, Data Science, Deep Learning </b>
+- 🌱 I like to analyse and predict data on <b>Kaggle</b>
+- ⚡ I’m passionate about <b>Data Analysis, Machine Leaning, Deep Learning </b>
 
 <h3 align="left">Technical Skills:</h3>
 <p align="left"> 
