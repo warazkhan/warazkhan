@@ -5,7 +5,7 @@
  
 ### &nbsp; About me:
 - 🔭 I’m currently doing Masters of Science in Artificial Intelligence from University of Hull, England.
-- 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b> in 2019 from Pakistan
+- 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b>, Pakistan.
 - 🌱 I like to analyse and predict data on <b>Kaggle</b>
 - ⚡ I’m passionate about <b>Data Analysis, Machine Leaning, Deep Learning </b>
 
