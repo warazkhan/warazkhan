@@ -4,7 +4,7 @@
  </h1>
  
 ### &nbsp; About me:
-- 🔭 I’m currently doing Masters of Science in Artificial Intelligence from University of Hull, England.
+- 🔭 I’m currently doing Masters of Science in <b>Artificial Intelligence</b> from <b>University of Hull</b>, England.
 - 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b>, Pakistan.
 - 🌱 I like to analyse and predict data on <b>Kaggle</b>
 - ⚡ I’m passionate about <b>Data Analysis, Machine Leaning, Deep Learning </b>
