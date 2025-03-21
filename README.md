@@ -1,5 +1,3 @@
-Here’s an updated version of your profile where I’ve removed the emojis for **Technical Skills** as requested:
-
 ---
 
 <h1 align="center">
