@@ -1,3 +1,5 @@
+Here’s an updated version of your profile where I’ve removed the emojis for **Technical Skills** as requested:
+
 ---
 
 <h1 align="center">
@@ -12,28 +14,28 @@
 - ⚡ I’m passionate about <b>Data Science and Machine Learning </b>
 
 ### &nbsp; Technical Skills:
-- **Languages**: 🐍 Python, 💻 Java, 🖥️ SQL, 🗃️ NoSQL  
+- **Languages**: Python, Java, SQL, NoSQL  
 - **Frameworks and Libraries**:  
-  - 🔲 Pandas, 🧮 NumPy, 🧭 Geopy, 🌍 Plotly, 🗺️ Folium, 🌐 Pycountry  
-  - 🔍 OpenCV, ⚙️ SMOTEENN, 📊 Seaborn, 📉 Scikit-learn, 📚 SciPy  
-  - 🌐 Flask, 🔤 regex, 🤖 nltk, 📖 spacy, 🔯 TensorFlow, 🔬 PyTorch, 🧠 Keras  
-  - 🎯 YOLO (You Only Look Once), 📄 PyMuPDF, 📑 PyPDF2, 📸 Tesseract OCR
+  - Pandas, NumPy, Geopy, Plotly, Folium, Pycountry  
+  - OpenCV, SMOTEENN, Seaborn, Scikit-learn, SciPy  
+  - Flask, regex, nltk, spacy, TensorFlow, PyTorch, Keras  
+  - YOLO (You Only Look Once), PyMuPDF, PyPDF2, Tesseract OCR
 - **Machine Learning Algorithms**:  
-  - 📊 Linear Regression, 🔢 Logistic Regression, 🌳 Decision Trees, 🌲 Random Forests  
-  - ⚖️ Support Vector Machines (SVM), 📍 K-Nearest Neighbors (KNN), 🧠 Naive Bayes  
-  - 🔄 K-Means Clustering, 📈 K-Fold Cross Validation
+  - Linear Regression, Logistic Regression, Decision Trees, Random Forests  
+  - Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naive Bayes  
+  - K-Means Clustering, K-Fold Cross Validation
 - **Deep Learning Frameworks**:  
-  - 🚀 Gradient-Boosting Machines (GBM), 🧑‍💻 Feedforward Neural Networks (FNN)  
-  - 🖼️ Convolutional Neural Networks (CNN), 🔄 Federated Learning
+  - Gradient-Boosting Machines (GBM), Feedforward Neural Networks (FNN)  
+  - Convolutional Neural Networks (CNN), Federated Learning
 - **Natural Language Processing (NLP)**:  
-  - 🧳 Named Entity Recognition (NER), 📝 Text Classification, 📚 Summarization  
-  - ✂️ Tokenization, 🚫 Stopword Removal, 🧩 Sentence Segmentation, 💬 Sentiment Analysis (TF-IDF)
+  - Named Entity Recognition (NER), Text Classification, Summarization  
+  - Tokenization, Stopword Removal, Sentence Segmentation, Sentiment Analysis (TF-IDF)
 - **Data Analytics & Visualizations**:  
-  - 📊 Tableau, 📉 Power BI, 📈 Microsoft Excel, ⏱️ Time Series Analysis  
-  - 🔧 Feature Engineering, 🧮 Exploratory Data Analysis (EDA)
+  - Tableau, Power BI, Microsoft Excel, Time Series Analysis  
+  - Feature Engineering, Exploratory Data Analysis (EDA)
 - **Tools & Platforms**:  
-  - 🐍 Anaconda, 📓 Jupyter Notebook, 🐋 Docker, 📑 Google Colab, 🎥 UiPath  
-  - 🔧 Git, ⚙️ Jira (Scrum and Kanban), 📜 GitHub
+  - Anaconda, Jupyter Notebook, Docker, Google Colab, UiPath  
+  - Git, Jira (Scrum and Kanban), GitHub
 
 ### &nbsp; Reach Me @:
 <a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/linkedIn.png" width="40" height="40"></a> &nbsp;
@@ -43,5 +45,3 @@
 <a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
 
 ---
-
-You can use these emojis directly within your markdown or HTML code in GitHub.
