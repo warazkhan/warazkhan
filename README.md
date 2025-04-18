@@ -9,7 +9,6 @@
 - 🔭 I've done Masters of Science in <b>Artificial Intelligence</b> from <b>University of Hull</b>, England.
 - 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b>, Pakistan.
 - 🌱 I like to analyse and predict data on <b>Kaggle</b>
-- ⚡ I’m passionate about <b>Data Science and Machine Learning </b>
 
 ### &nbsp; Technical Skills:
 - **Languages**: Python, Java, SQL, NoSQL  
