@@ -26,8 +26,7 @@ Focused on production-ready AI systems: RAG pipelines, multi-agent architectures
 | Evaluation | RAGAS, MLflow |
 | APIs & serving | FastAPI, Flask, Streamlit |
 | Data engineering | Pandas, NumPy, ETL, Feature Engineering, Power BI, Tableau |
-| MLOps / infra | Docker, Kubernetes, ArgoCD, GitHub Actions, Git |
-| Cloud | AWS (EC2, S3, Lambda) |
+| MLOps / infra | Docker, Kubernetes, ArgoCD, GitHub Actions, Git, Render |
 
 ---
 
