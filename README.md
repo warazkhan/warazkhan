@@ -1,44 +1,45 @@
----
+# Wara Zubair Khan
+**AI/ML Engineer · Munich, Germany**
 
-<h1 align="center">
-  Hi 👋 I'm <a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/">Wara Zubair Khan</a>
-  <br>
-</h1>
-
-### &nbsp; About me:
-- 🔭 I've done Masters of Science in <b>Artificial Intelligence</b> from <b>University of Hull</b>, England.
-- 🎓 I've done Bachelors of Engineering in <b>Computer and Information Systems</b> from <b>NED University of Engineering and Technology</b>, Pakistan.
-- 🌱 I like to analyse and predict data on <b>Kaggle</b>
-
-### &nbsp; Technical Skills:
-- **Languages**: Python, Java, SQL, NoSQL  
-- **Frameworks and Libraries**:  
-  - Pandas, NumPy, Geopy, Plotly, Folium, Pycountry  
-  - OpenCV, SMOTEENN, Seaborn, Scikit-learn, SciPy  
-  - Flask, regex, nltk, spacy, TensorFlow, PyTorch, Keras  
-  - YOLO (You Only Look Once), PyMuPDF, PyPDF2, Tesseract OCR
-- **Machine Learning Algorithms**:  
-  - Linear Regression, Logistic Regression, Decision Trees, Random Forests  
-  - Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naive Bayes  
-  - K-Means Clustering, K-Fold Cross Validation
-- **Deep Learning Frameworks**:  
-  - Gradient-Boosting Machines (GBM), Feedforward Neural Networks (FNN)  
-  - Convolutional Neural Networks (CNN), Federated Learning
-- **Natural Language Processing (NLP)**:  
-  - Named Entity Recognition (NER), Text Classification, Summarization  
-  - Tokenization, Stopword Removal, Sentence Segmentation, Sentiment Analysis (TF-IDF)
-- **Data Analytics & Visualizations**:  
-  - Tableau, Power BI, Microsoft Excel, Time Series Analysis  
-  - Feature Engineering, Exploratory Data Analysis (EDA)
-- **Tools & Platforms**:  
-  - Anaconda, Jupyter Notebook, Docker, Google Colab, UiPath  
-  - Git, Jira (Scrum and Kanban), GitHub
-
-### &nbsp; Reach Me @:
-<a href="https://www.linkedin.com/in/wara-zubair-khan-382940105/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/linkedIn.png" width="40" height="40"></a> &nbsp;
-<a href="https://www.xing.com/profile/WaraZubair_Khan/cv"><img alt="Xing" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/xing.png" width="40" height="40"></a> &nbsp;
-<a href="https://www.kaggle.com/warazubairkhan"><img alt="Kaggle" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/kaggle.png" width="60" height="40"></a> &nbsp;
-<a href="https://www.hackerrank.com/warazkhan?hr_r=1"><img alt="HackerRank" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/HackerRank.png" width="40" height="40"></a> &nbsp;
-<a href="mailto:warazkhan@outlook.com.com"><img alt="Outlook" src="https://raw.githubusercontent.com/warazkhan/warazkhan/main/outlook.png" width="40" height="40"></a> &nbsp;
+MSc Artificial Intelligence (Distinction) · University of Hull  
+Focused on production-ready AI systems: RAG pipelines, multi-agent architectures, federated learning, and data engineering.
 
 ---
+
+## Focus areas
+
+- Hybrid AI systems — combining deterministic analytics with LLM reasoning
+- Multi-agent architectures with LangGraph and CrewAI
+- Privacy-preserving ML via federated learning
+- MLOps: experiment tracking, containerisation, CI/CD
+
+---
+
+## Technical stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL |
+| ML / DL | Scikit-learn, XGBoost, LightGBM, PyTorch, Federated Learning |
+| LLM / Generative AI | LangChain, LangGraph, CrewAI, HuggingFace, Groq, Prompt Engineering, RAG |
+| Vector databases | Chroma, FAISS |
+| Evaluation | RAGAS, MLflow |
+| APIs & serving | FastAPI, Flask, Streamlit |
+| Data engineering | Pandas, NumPy, ETL, Feature Engineering, Power BI, Tableau |
+| MLOps / infra | Docker, Kubernetes, ArgoCD, GitHub Actions, Git |
+| Cloud | AWS (EC2, S3, Lambda) |
+
+---
+
+## Education
+
+- **MSc Artificial Intelligence** — Distinction · University of Hull, England · 2023–2025
+- **BEng Computer and Information Systems** — NED University of Engineering and Technology, Pakistan · 2015–2019
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-warazubairkhan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/warazubairkhan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-warazubairkhan-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/warazubairkhan)
+[![Email](https://img.shields.io/badge/Email-warazkhan@outlook.com-0078D4?style=flat&logo=microsoftoutlook)](mailto:warazkhan@outlook.com)
